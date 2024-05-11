@@ -1,2 +1,2 @@
-# Strech
+# Stretch
 well... just a game

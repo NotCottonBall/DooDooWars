@@ -1,5 +1,10 @@
 # Folders
 DerivedDataCache/*
 Intermediate/*
-Plugins/*
+Binaries/*
+Build/*
 Saved/*
+Plugins/*
+
+# Hidden Folders
+.vs/*

@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class StretchEditorTarget : TargetRules
+public class DooDooWarsEditorTarget : TargetRules
 {
-	public StretchEditorTarget(TargetInfo Target) : base(Target)
+	public DooDooWarsEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 
-		ExtraModuleNames.AddRange( new string[] { "Stretch" } );
+		ExtraModuleNames.AddRange( new string[] { "DooDooWars" } );
 	}
 }

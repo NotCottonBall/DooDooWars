@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Stretch : ModuleRules
+public class DooDooWars : ModuleRules
 {
-	public Stretch(ReadOnlyTargetRules Target) : base(Target)
+	public DooDooWars(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

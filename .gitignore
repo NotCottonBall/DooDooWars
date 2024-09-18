@@ -6,8 +6,13 @@ Build/*
 Saved/*
 Plugins/*
 
+# Assets From Marketplace/Fab
+AdvancedCelShader/*
+
 # Hidden Folders
 .vs/*
+.vscode/*
 
 # Files
 ./*.sln
+./*.fbx

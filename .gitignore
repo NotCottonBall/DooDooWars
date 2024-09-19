@@ -7,7 +7,7 @@ Saved/*
 Plugins/*
 
 # Assets From Marketplace/Fab
-AdvancedCelShader/*
+AdvancedCelShader
 
 # Hidden Folders
 .vs/*
@@ -15,4 +15,3 @@ AdvancedCelShader/*
 
 # Files
 ./*.sln
-./*.fbx
